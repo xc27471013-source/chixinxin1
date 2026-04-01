@@ -11,5 +11,6 @@ apscheduler>=3.10.0
 pytz>=2023.3
 python-dotenv>=1.0.0
 chardet>=5.0.0
+python-pptx>=1.0.0
 coze-coding-dev-sdk
 coze-coding-utils
